@@ -25,7 +25,7 @@ limitations under the License.
 
 PrimeQA is a public open source repository that enables researchers and developers to train state-of-the-art models for question answering (QA). By using PrimeQA, a researcher can replicate the experiments outlined in a paper published in the latest NLP conference while also enjoying the capability to download pre-trained models (from an online repository) and run them on their own custom data. PrimeQA is built on top of the [Transformers](https://github.com/huggingface/transformers) toolkit and uses [datasets](https://huggingface.co/datasets/viewer/) and [models](https://huggingface.co/PrimeQA) that are directly downloadable. Note: that we have 4 repositories under PrimeQA with the first 2 serving most of your needs.
 
-- [primeqa-main](https://github.com/primeqa/primeqa): The main PrimeQA repository for training custom QA models, replicating the SOTA in QA research/ academia and notebooks.
+- [primeqa](https://github.com/primeqa/primeqa): The main PrimeQA repository for training custom QA models, replicating the SOTA in QA research/ academia and notebooks.
 - [create-primeqa-app](https://github.com/primeqa/create-primeqa-app): This repository provides easy scripts to run PrimeQA applications via docker.
 - [primeqa-ui](https://github.com/primeqa/primeqa-ui): Front-end for PrimeQA services
 - [primeqa-orchestrator](https://github.com/primeqa/primeqa-orchestrator): Orchestrator connecting different PrimeQA components
